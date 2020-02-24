@@ -1,0 +1,3 @@
+Name: Alex
+Age: 29
+Favorite color: purple
